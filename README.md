@@ -14,9 +14,8 @@
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 安装脚本：[grok-batch-deleter.user.js](https://raw.githubusercontent.com/YOUR_USERNAME/grok-batch-deleter/main/grok-batch-deleter.user.js)
-3. 或者greasyfork直接安装 https://greasyfork.org/zh-CN/scripts/577233-grok-batch-deleter
-4. 打开 https://grok.com/files 开始使用
+2. greasyfork直接安装 https://greasyfork.org/zh-CN/scripts/577233-grok-batch-deleter
+3. 打开 https://grok.com/files 开始使用
 
 ## 使用方法
 
