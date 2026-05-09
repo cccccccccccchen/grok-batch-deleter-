@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Grok 文件批量删除工具
+// @name         Grok Batch File Deleter
 // @namespace    http://tampermonkey.net/
 // @version      2026-05-08
 // @description  try to take over the world!
